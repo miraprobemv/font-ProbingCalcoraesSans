@@ -1,0 +1,10 @@
+StartChar: Oslash
+Encoding: 216 216 61
+Width: 790
+Flags: W
+HStem: -4 60<186.036 315.794 452.928 568.293> 431 60<96 192>
+VStem: 77 66<100.1 292.687> 192 63<406.627 431> 365 66<128.59 496> 632 66<0 496>
+LayerCount: 2
+Fore
+Refer: 30 248 N 1 0 0 1 0 0 2
+EndChar

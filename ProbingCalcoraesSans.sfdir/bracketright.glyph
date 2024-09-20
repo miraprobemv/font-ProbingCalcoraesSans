@@ -1,0 +1,20 @@
+StartChar: bracketright
+Encoding: 93 93 113
+Width: 380
+Flags: W
+HStem: -213 60<42 222> 627 60<42 222>
+VStem: 222 66<-153 627>
+LayerCount: 2
+Fore
+SplineSet
+42 687 m 1
+ 288 687 l 25
+ 288 -213 l 5
+ 42 -213 l 5
+ 42 -153 l 5
+ 222 -153 l 5
+ 222 627 l 1
+ 42 627 l 1
+ 42 687 l 1
+EndSplineSet
+EndChar

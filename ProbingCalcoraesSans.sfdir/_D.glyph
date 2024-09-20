@@ -1,0 +1,11 @@
+StartChar: D
+Encoding: 68 68 41
+Width: 580
+Flags: W
+HStem: -4 60<207.157 374.615> 431 60<96 192> 704 20G<434 524>
+VStem: 77 66<117.658 304.665> 192 63<407.541 431> 400 66<372.787 638.25> 442 66<123.638 372.787>
+LayerCount: 2
+Fore
+Refer: 14 100 N 1 0 0 1 0 0 2
+Substitution2: "hexadecimal-1" D.hex
+EndChar

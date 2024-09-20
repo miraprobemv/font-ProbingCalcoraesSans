@@ -1,0 +1,11 @@
+StartChar: C
+Encoding: 67 67 40
+Width: 540
+Flags: W
+HStem: -4 60<205.44 427.366> 29 61<401.914 463> 232 60<124 430> 431 60<72 113 198 460> 442 20G<97.5 198>
+VStem: 124 11<232 292>
+LayerCount: 2
+Fore
+Refer: 31 99 N 1 0 0 1 0 0 2
+Substitution2: "hexadecimal-1" C.hex
+EndChar

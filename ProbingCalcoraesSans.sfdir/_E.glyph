@@ -1,0 +1,11 @@
+StartChar: E
+Encoding: 69 69 42
+Width: 380
+Flags: W
+HStem: 5 60<158 338> 476 20G<92 158>
+VStem: 92 66<65 496>
+LayerCount: 2
+Fore
+Refer: 12 101 N 1 0 0 1 0 0 2
+Substitution2: "hexadecimal-1" E.hex
+EndChar

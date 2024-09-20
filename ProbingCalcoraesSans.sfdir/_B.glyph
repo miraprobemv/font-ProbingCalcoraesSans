@@ -1,0 +1,11 @@
+StartChar: B
+Encoding: 66 66 39
+Width: 630
+Flags: W
+HStem: -8 60<229.491 392.951> 436 56<355 410.146> 612 21G<125 168.5> 668 60<193.448 405.283>
+VStem: 82 66<136.616 378.68> 355 85<444.575 477.174> 447 66<523.937 632.452> 478 66<143.875 357.294>
+LayerCount: 2
+Fore
+Refer: 22 98 N 1 0 0 1 0 0 2
+Substitution2: "hexadecimal-1" B.hex
+EndChar

@@ -1,0 +1,11 @@
+StartChar: F
+Encoding: 70 70 43
+Width: 620
+Flags: W
+HStem: 5 60<162 460> 476 20G<96 162> 595 21G<97.4872 132.5> 668 60<187.099 391.64>
+VStem: 96 66<65 496> 460 66<5 599.363>
+LayerCount: 2
+Fore
+Refer: 33 102 N 1 0 0 1 0 0 2
+Substitution2: "hexadecimal-1" F.hex
+EndChar

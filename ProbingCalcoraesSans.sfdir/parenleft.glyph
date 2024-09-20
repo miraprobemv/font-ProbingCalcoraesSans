@@ -1,0 +1,20 @@
+StartChar: parenleft
+Encoding: 40 40 106
+Width: 390
+Flags: W
+HStem: 702 20G<192.5 307>
+VStem: 67 66<81.9778 424.022>
+LayerCount: 2
+Fore
+SplineSet
+67 253 m 7
+ 67 442 147 658 238 722 c 1
+ 307 722 l 1
+ 307 705 l 1
+ 209 630 133 437 133 253 c 7
+ 133 69 209 -124 307 -199 c 1
+ 307 -216 l 1
+ 238 -216 l 1
+ 147 -152 67 64 67 253 c 7
+EndSplineSet
+EndChar

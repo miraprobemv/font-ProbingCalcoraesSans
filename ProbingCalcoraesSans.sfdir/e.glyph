@@ -1,0 +1,19 @@
+StartChar: e
+Encoding: 101 101 12
+Width: 380
+Flags: W
+HStem: 5 60<158 338> 476 20G<92 158>
+VStem: 92 66<65 496>
+LayerCount: 2
+Fore
+SplineSet
+338 5 m 5
+ 92 5 l 29
+ 92 496 l 1
+ 158 496 l 17
+ 158 65 l 5
+ 338 65 l 5
+ 338 5 l 5
+EndSplineSet
+Substitution2: "hexadecimal-1" E.hex
+EndChar
