@@ -5,7 +5,7 @@ FamilyName: ProbingCalcoraesSans
 Weight: Regular
 Copyright: Copyright (c) 2024, Mira, the Multiverse Probe
 UComments: "2024-2-3: Created with FontForge (http://fontforge.org)"
-Version: 001.000
+Version: 20241130.000
 ItalicAngle: 0
 UnderlinePosition: -102
 UnderlineWidth: 51
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1706945489
-ModificationTime: 1707784214
+ModificationTime: 1732946895
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -59,7 +59,7 @@ NameList: AGL For New Fonts
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 96 32 5
+WinInfo: 0 32 11
 BeginPrivate: 0
 EndPrivate
 Grid
